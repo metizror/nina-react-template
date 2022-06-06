@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "image": "assets/img/story-big/story1.jpg",
+        "name": "Dinosaur & more",
+        "address": "NY",
+        "title": "Change the citizen life",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            1,
+            2
+        ],
+        "raised": 335,
+        "goal": 657,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "assets/img/story-big/story2.jpg",
+        "name": "Must love Art",
+        "address": "CA",
+        "title": "The Publicity Campaign",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            3,
+            4
+        ],
+        "raised": 545,
+        "goal": 787,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "assets/img/story-big/story3.jpg",
+        "name": "Paintings",
+        "address": "LA",
+        "title": "The clean power plan",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            5,
+            6
+        ],
+        "raised": 342,
+        "goal": 434,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "assets/img/story-big/story4.jpg",
+        "name": "Sculptures",
+        "address": "CA",
+        "title": "Security for the middle class",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            7,
+            8
+        ],
+        "raised": 243,
+        "goal": 778,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "assets/img/story-big/story5.jpg",
+        "name": "Museum External",
+        "address": "FL",
+        "title": "Preparing our youth for success",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            9,
+            10
+        ],
+        "raised": 677,
+        "goal": 899,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "assets/img/story-big/story6.jpg",
+        "name": "Museum Internal",
+        "address": "NY",
+        "title": "Making College More Affordable",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            11,
+            12
+        ],
+        "raised": 243,
+        "goal": 546,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "image": "assets/img/story-big/story7.jpg",
+        "name": "Artifacts",
+        "address": "NY",
+        "title": "Energy and Environment Research",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            1,
+            13
+        ],
+        "raised": 546,
+        "goal": 768,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "image": "assets/img/story-big/story8.jpg",
+        "name": "Science",
+        "address": "NJ",
+        "title": "Change the citizen life",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            2,
+            3
+        ],
+        "raised": 243,
+        "goal": 354,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "image": "assets/img/story-big/story9.jpg",
+        "name": "Architecture",
+        "address": "LA",
+        "title": "The clean power plan",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            4,
+            5
+        ],
+        "raised": 788,
+        "goal": 980,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "image": "assets/img/story-big/story1.jpg",
+        "name": "Museum Shop",
+        "address": "LA",
+        "title": "Security for the middle class",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            6,
+            7
+        ],
+        "raised": 545,
+        "goal": 868,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "image": "assets/img/story-big/story2.jpg",
+        "name": "Cafeteria",
+        "address": "CA",
+        "title": "Preparing our youth for success",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            8,
+            9
+        ],
+        "raised": 676,
+        "goal": 799,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "image": "assets/img/story-big/story2.jpg",
+        "name": "Paintings",
+        "address": "TX",
+        "title": "Making College More Affordable",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.",
+        "tags": [
+            10,
+            11
+        ],
+        "raised": 685,
+        "goal": 797,
+        "postdate": "12 May 2021",
+        "htmldesc": "<div class='blog-meta mb-xl-20'><h5 class='blog-title text-light-black'>Best Diamonds Product in Brooklyn..</h5><p class='text-light-white'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div><blockquote><p>'Chinese is the popular Producrt, Lorem Ipsum is not simply random text. It has roots in a piece of classical chinese.'</p></blockquote><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Where can I get that product?</h6><p class='text-light-white'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></div><div class='blog-meta mb-xl-20'><h6 class='blog-title text-light-black'>Why do we choose it?</h6><p class='text-light-white'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "11 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            2
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "10 May 2021",
+                "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "replies": [
+                    {
+                        "user": [
+                            4
+                        ],
+                        "commentdate": "12 May 2021",
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                    }
+                ]
+            }
+        ],
+        "gallery": [
+            "assets/img/story-big/storyg1.jpg",
+            "assets/img/story-big/storyg2.jpg",
+            "assets/img/story-big/storyg3.jpg",
+            "assets/img/story-big/storyg4.jpg",
+            "assets/img/story-big/storyg5.jpg",
+            "assets/img/story-big/storyg6.jpg",
+            "assets/img/story-big/storyg7.jpg",
+            "assets/img/story-big/storyg8.jpg"
+        ]
+    }
+]

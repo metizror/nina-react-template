@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "image": "assets/img/categories/adv1.jpg",
+      "title": "Jellied Eels",
+      "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod"
+    },
+    {
+      "id": 2,
+      "image": "assets/img/categories/adv2.jpg",
+      "title": "Sunset at sea",
+      "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod"
+    },
+    {
+      "id": 3,
+      "image": "assets/img/categories/adv3.jpg",
+      "title": "Metal Artwork",
+      "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod"
+    },
+    {
+      "id": 4,
+      "image": "assets/img/categories/adv4.jpg",
+      "title": "Flower vase",
+      "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod"
+    }
+  ]

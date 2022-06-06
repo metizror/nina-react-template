@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "icon": "assets/img/how1.png",
+        "title": "Search",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
+        "arrowclass": "arrow-1"
+    },
+    {
+        "id": 2,
+        "icon": "assets/img/how2.png",
+        "title": "Select",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
+        "arrowclass": "arrow-2"
+    },
+    {
+        "id": 3,
+        "icon": "assets/img/how3.png",
+        "title": "Order",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
+        "arrowclass": "arrow-1"
+    },
+    {
+        "id": 4,
+        "icon": "assets/img/how4.png",
+        "title": "Enjoy",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "Donation"
+    },
+    {
+        "id": 2,
+        "title": "Education"
+    },
+    {
+        "id": 3,
+        "title": "Handicraft"
+    },
+    {
+        "id": 4,
+        "title": "Paintings"
+    },
+    {
+        "id": 5,
+        "title": "Medical"
+    },
+    {
+        "id": 6,
+        "title": "Trending"
+    },
+    {
+        "id": 7,
+        "title": "Health"
+    },
+    {
+        "id": 8,
+        "title": "Luxury"
+    },
+    {
+        "id": 9,
+        "title": "Rings"
+    },
+    {
+        "id": 10,
+        "title": "Pearl"
+    },
+    {
+        "id": 11,
+        "title": "Luxury"
+    },
+    {
+        "id": 12,
+        "title": "Bestseller"
+    },
+    {
+        "id": 13,
+        "title": "Low Cost"
+    }
+]

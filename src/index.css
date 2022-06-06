@@ -1,0 +1,105 @@
+.product-box .product-money span{
+    margin: 0 3px;
+}
+.side-shop .side-post:last-child, 
+.side-blog .side-post:last-child{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none;
+}
+.side-shop .side-post .entry-tye span.text-price{
+    text-decoration: line-through;
+    color: gray;
+    margin-left: 6px;
+}
+.shop-detail-image .product-label{
+    left: auto;
+    right: 0;
+}
+.shop-detail-contents .price .price-tag+span{
+    text-decoration: line-through;
+    color: gray;
+}
+.side-shop .thumb-img a , .side-blog .thumb-img a{
+    width: 80px;
+    height: 80px;
+    display: block
+}
+.checkout-product .product-img img,
+.review-box .review-user .review-user-img img,
+.side-shop .thumb-img img, .side-blog .thumb-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.review-box .review-user .review-user-img img{
+    width: 40px;
+    height: 40px;
+}
+.checkout-product .product-img img{
+    width: 100px;
+    height: 100px;
+}
+.story-wrapper{
+    min-height: 300px;
+    height: calc(100% - 30px);
+}
+.story-wrapper img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.delivery-slider .irs--round .irs-handle>i:first-child,
+.delivery-slider .irs--round .irs-from,
+.delivery-slider .irs--round .irs-to {
+    background-color: #13130D!important;
+}
+
+.delivery-slider .irs--round .irs-bar {
+    background-color: #13130D!important;
+    height: 2px!important;
+}
+
+.delivery-slider .irs--round .irs-from:before,
+.delivery-slider .irs--round .irs-to:before {
+    border-top-color: #13130D!important;
+}
+
+.delivery-slider .irs--round .irs-line {
+    height: 2px!important;
+}
+
+.delivery-slider .irs--round .irs-handle {
+    top: 30px!important;
+    width: 15px!important;
+    height: 15px!important;
+    border-radius: 50%!important;
+    background-color: #13130D!important;
+	border: none!important;
+	box-shadow: none!important;
+}
+@media(max-width:992px){
+    .main-navigation{
+        overflow: auto;
+    }
+    header.sticky .main-navigation>nav>.main-menu>.menu-item>a{
+        color: #13130d;
+    }
+}
+.bg-cover{
+    background-size: cover;
+}
+.hm-list.hm-instagram li img{
+    width: 100%;
+}
+.product-box .product-caption .product-title a{
+    color: #13130D;
+}
+.product-box .product-caption .product-title a:hover{
+    color: #C9A050;
+}
+.progress-bar{
+    overflow: visible;
+}

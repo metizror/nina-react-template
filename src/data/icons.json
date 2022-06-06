@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/help.svg"
+    },
+    {
+        "id":2,
+        "image":"assets/img/cash.svg"
+    },
+    {
+        "id":3,
+        "image":"assets/img/investor.svg"
+    },
+    {
+        "id":4,
+        "image":"assets/img/help.svg"
+    },
+    {
+        "id":5,
+        "image":"assets/img/money.svg"
+    }
+]
