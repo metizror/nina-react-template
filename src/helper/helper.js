@@ -1,5 +1,6 @@
-
+import React, { Component } from 'react';
 import author from '../data/authors.json';
+
 function Rating(rating) {
     let stars = [];
     for (let i = 0; i < 5; i++) {
